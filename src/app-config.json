@@ -1,0 +1,11 @@
+{
+  "googleClientId": "",
+  "groqModel": "openai/gpt-oss-20b",
+  "videosPerDay": 1,
+  "uploadTime": "19:00",
+  "timezone": "Asia/Kolkata",
+  "visibility": "public",
+  "channelNiche": "Luxury lifestyle",
+  "defaultHashtags": ["#shorts", "#luxury"],
+  "categoryId": "22"
+}
